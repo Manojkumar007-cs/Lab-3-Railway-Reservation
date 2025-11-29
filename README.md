@@ -1,7 +1,7 @@
 # Lab-3-Railway-Reservation
-NAME : VISHAL S
+NAME : Manojkumar K
 
-REGISTER NUMBER : 212223240184
+REGISTER NUMBER : 212224040188
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
